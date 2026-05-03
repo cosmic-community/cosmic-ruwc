@@ -1,0 +1,8 @@
+// .gitignore
+node_modules
+.next
+.env
+.env.local
+.env.production.local
+.proxy-key
+.DS_Store
